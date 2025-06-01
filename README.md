@@ -25,6 +25,6 @@ We aim to disrupt the traditional export cloth business model with a **zero-capi
 📂 ClothConnectPro/
 │
 ├── 📄 SRS_Document.pdf
-├── 📁 assets/           # (Optional: mockups, UI wireframes)
-├── 📁 docs/             # (Optional: flowcharts, diagrams)
+├── 📁 assets/           
+├── 📁 docs/            
 └── README.md
